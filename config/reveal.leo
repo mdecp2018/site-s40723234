@@ -24,6 +24,12 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181102173306.1" a="E"><vh>影片導入</vh>
+<v t="leo.20181102173316.1"><vh>影片內容</vh></v>
+</v>
+<v t="leo.20181102173416.1" a="E"><vh>影片導入</vh>
+<v t="leo.20181102173416.2"><vh>影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -326,5 +332,37 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181102173306.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102173316.1">## week1
+
+### 如何利用 p37 中的 git 建立個人的 Github Pages 網站
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ax2ZuPm3YXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181102173416.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102173416.2">## week3
+
+### git 基本操作練習
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/158Ir6Mni60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
