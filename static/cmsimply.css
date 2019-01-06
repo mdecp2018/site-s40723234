@@ -1,13 +1,14 @@
 .container {
   position: relative;
 }
-
-  
+header{
+  background: #ccc;
+  padding: 20px;
 }
 confmenu
 {
 	#width: 800px;
-	background: #33FFFF;
+	background: #333;
 	margin-bottom: 10px;
 }
 confmenu ul
@@ -26,14 +27,13 @@ confmenu li a
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #33FFFF
-	;
-	background:#888888;
+	color: #fff;
+	background: #333;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
 confmenu li a:hover {
-background: #888888; 
+background: #383; 
 }
 
 nav {
@@ -112,7 +112,7 @@ ul#css3menu1 a{
 	text-align:left;
 	text-decoration:none;
 	font:17px Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
-	color:#FFCCCC;
+	color:#000000;
 	cursor:pointer;
 	padding:7px 12px;
 	background-color:;
@@ -141,7 +141,7 @@ ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
 	/* mouse hover color */
 	color:#FFCC00;
 	text-decoration:none;
-	background-color:#888888
+	background-color:#333
 }
 ul#css3menu1 img{
 	border:none;
@@ -201,7 +201,5 @@ background-color: white;
 width: 195px;
 }
 body {
-	 background-image:url("http://images6.fanpop.com/image/photos/40800000/Tzuyu-09-twice-jyp-ent-40873535-2048-1152.jpg");
-  margin-bottom: 140px;
+  margin-bottom: 120px;
 }
-
